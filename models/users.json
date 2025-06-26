@@ -1,1 +1,26 @@
-[]
+[
+  {
+        "username": "Pranay Reddy",
+        "password": "$2b$10$veO16ulszo7zs2t5OxEZr.fXjcnTa8SIVlwOhbvwwQgD99i4ImzB2",
+        "roles": {
+            "User": 2001
+        }
+    },
+    {
+        "username": "Mandadi Shiva",
+        "password": "$2b$10$epmY8FlKlEZQlIKIEzSTQ.LOCk4ZwS1LsVzl1x5a9k8NRMFoJoKPO",
+        "roles": {
+            "Admin": 5150,
+            "Editor": 1984,
+            "User": 2001
+        }
+    },
+    {
+        "username": "Shiva Durga",
+        "password": "$2b$10$GnzR9m1ClHBQr0X0V3Bf..5gBX8z96UKuuCU3VTevqYISFxxxLeum",
+        "roles": {
+            "Editor": 1984,
+            "User": 2001
+        }
+    }
+]
